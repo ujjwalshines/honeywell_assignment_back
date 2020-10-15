@@ -27,6 +27,7 @@ namespace Honeywell_Backend_Assessment
         {
             services.AddCors();
             services.AddControllers().AddXmlSerializerFormatters();
+            services.AddTokenBasedAuthentication(_config);
             services.InjectServices(_config);
         }
 
