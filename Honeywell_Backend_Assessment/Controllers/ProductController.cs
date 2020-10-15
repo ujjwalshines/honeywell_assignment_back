@@ -21,7 +21,7 @@ namespace Honeywell_Backend_Assessment.Controllers
         public ApiResponse GetProductsByName([FromBody]ProductRequest request) => _service.GetProductsByName(request);
         [Authorize]
         [HttpGet(Routes.GET_PRODUCTS_BY_ID)]
-        public ApiResponse GetProductsById([FromBody]string id) => _service.GetProductsById(id);
+        public ApiResponse GetProductsById([FromRoute]string id) => _service.GetProductsById(id);
         [Authorize]
         [HttpPost(Routes.ADD_PRODUCT)]
         public ApiResponse AddProduct([FromBody]ProductRequest request) => _service.AddProduct(request);
