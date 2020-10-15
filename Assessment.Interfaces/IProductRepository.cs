@@ -11,6 +11,6 @@ namespace Assessment.Interfaces
         bool UpdateProduct(Product product);
         bool DeleteProduct(string productId);
         IEnumerable<Product> GetProductsByName(string productName);
-        IEnumerable<Product> GetProductsById(string productId)
+        IEnumerable<Product> GetProductsById(string productId);
     }
 }
