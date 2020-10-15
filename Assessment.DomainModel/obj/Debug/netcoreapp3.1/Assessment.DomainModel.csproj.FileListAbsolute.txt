@@ -1,0 +1,8 @@
+C:\Users\UjjwalSinghaRoy\source\repos\Honeywell_Backend_Assessment\Assessment.DomainModel\bin\Debug\netcoreapp3.1\Assessment.DomainModel.deps.json
+C:\Users\UjjwalSinghaRoy\source\repos\Honeywell_Backend_Assessment\Assessment.DomainModel\bin\Debug\netcoreapp3.1\Assessment.DomainModel.dll
+C:\Users\UjjwalSinghaRoy\source\repos\Honeywell_Backend_Assessment\Assessment.DomainModel\bin\Debug\netcoreapp3.1\Assessment.DomainModel.pdb
+C:\Users\UjjwalSinghaRoy\source\repos\Honeywell_Backend_Assessment\Assessment.DomainModel\obj\Debug\netcoreapp3.1\Assessment.DomainModel.csprojAssemblyReference.cache
+C:\Users\UjjwalSinghaRoy\source\repos\Honeywell_Backend_Assessment\Assessment.DomainModel\obj\Debug\netcoreapp3.1\Assessment.DomainModel.AssemblyInfoInputs.cache
+C:\Users\UjjwalSinghaRoy\source\repos\Honeywell_Backend_Assessment\Assessment.DomainModel\obj\Debug\netcoreapp3.1\Assessment.DomainModel.AssemblyInfo.cs
+C:\Users\UjjwalSinghaRoy\source\repos\Honeywell_Backend_Assessment\Assessment.DomainModel\obj\Debug\netcoreapp3.1\Assessment.DomainModel.dll
+C:\Users\UjjwalSinghaRoy\source\repos\Honeywell_Backend_Assessment\Assessment.DomainModel\obj\Debug\netcoreapp3.1\Assessment.DomainModel.pdb

@@ -1,0 +1,13 @@
+C:\Users\UjjwalSinghaRoy\source\repos\Honeywell_Backend_Assessment\Assessment.Interfaces\bin\Debug\netcoreapp3.1\Assessment.Interfaces.deps.json
+C:\Users\UjjwalSinghaRoy\source\repos\Honeywell_Backend_Assessment\Assessment.Interfaces\bin\Debug\netcoreapp3.1\Assessment.Interfaces.dll
+C:\Users\UjjwalSinghaRoy\source\repos\Honeywell_Backend_Assessment\Assessment.Interfaces\bin\Debug\netcoreapp3.1\Assessment.Interfaces.pdb
+C:\Users\UjjwalSinghaRoy\source\repos\Honeywell_Backend_Assessment\Assessment.Interfaces\bin\Debug\netcoreapp3.1\Assessment.DomainModel.dll
+C:\Users\UjjwalSinghaRoy\source\repos\Honeywell_Backend_Assessment\Assessment.Interfaces\bin\Debug\netcoreapp3.1\Assessment.Models.dll
+C:\Users\UjjwalSinghaRoy\source\repos\Honeywell_Backend_Assessment\Assessment.Interfaces\bin\Debug\netcoreapp3.1\Assessment.DomainModel.pdb
+C:\Users\UjjwalSinghaRoy\source\repos\Honeywell_Backend_Assessment\Assessment.Interfaces\bin\Debug\netcoreapp3.1\Assessment.Models.pdb
+C:\Users\UjjwalSinghaRoy\source\repos\Honeywell_Backend_Assessment\Assessment.Interfaces\obj\Debug\netcoreapp3.1\Assessment.Interfaces.csprojAssemblyReference.cache
+C:\Users\UjjwalSinghaRoy\source\repos\Honeywell_Backend_Assessment\Assessment.Interfaces\obj\Debug\netcoreapp3.1\Assessment.Interfaces.AssemblyInfoInputs.cache
+C:\Users\UjjwalSinghaRoy\source\repos\Honeywell_Backend_Assessment\Assessment.Interfaces\obj\Debug\netcoreapp3.1\Assessment.Interfaces.AssemblyInfo.cs
+C:\Users\UjjwalSinghaRoy\source\repos\Honeywell_Backend_Assessment\Assessment.Interfaces\obj\Debug\netcoreapp3.1\Assessment.Interfaces.csproj.CopyComplete
+C:\Users\UjjwalSinghaRoy\source\repos\Honeywell_Backend_Assessment\Assessment.Interfaces\obj\Debug\netcoreapp3.1\Assessment.Interfaces.dll
+C:\Users\UjjwalSinghaRoy\source\repos\Honeywell_Backend_Assessment\Assessment.Interfaces\obj\Debug\netcoreapp3.1\Assessment.Interfaces.pdb

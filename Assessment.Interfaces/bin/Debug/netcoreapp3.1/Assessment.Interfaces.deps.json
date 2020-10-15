@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Assessment.Interfaces/1.0.0": {
+        "dependencies": {
+          "Assessment.DomainModel": "1.0.0",
+          "Assessment.Models": "1.0.0"
+        },
+        "runtime": {
+          "Assessment.Interfaces.dll": {}
+        }
+      },
+      "Assessment.DomainModel/1.0.0": {
+        "runtime": {
+          "Assessment.DomainModel.dll": {}
+        }
+      },
+      "Assessment.Models/1.0.0": {
+        "runtime": {
+          "Assessment.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Assessment.Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Assessment.DomainModel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Assessment.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

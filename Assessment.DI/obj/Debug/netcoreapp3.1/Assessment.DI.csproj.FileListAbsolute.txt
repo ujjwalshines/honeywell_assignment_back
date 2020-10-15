@@ -1,0 +1,17 @@
+C:\Users\UjjwalSinghaRoy\source\repos\Honeywell_Backend_Assessment\Assessment.DI\bin\Debug\netcoreapp3.1\Assessment.DI.deps.json
+C:\Users\UjjwalSinghaRoy\source\repos\Honeywell_Backend_Assessment\Assessment.DI\bin\Debug\netcoreapp3.1\Assessment.DI.dll
+C:\Users\UjjwalSinghaRoy\source\repos\Honeywell_Backend_Assessment\Assessment.DI\bin\Debug\netcoreapp3.1\Assessment.DI.pdb
+C:\Users\UjjwalSinghaRoy\source\repos\Honeywell_Backend_Assessment\Assessment.DI\bin\Debug\netcoreapp3.1\Assessment.DomainModel.dll
+C:\Users\UjjwalSinghaRoy\source\repos\Honeywell_Backend_Assessment\Assessment.DI\bin\Debug\netcoreapp3.1\Assessment.Interfaces.dll
+C:\Users\UjjwalSinghaRoy\source\repos\Honeywell_Backend_Assessment\Assessment.DI\bin\Debug\netcoreapp3.1\Assessment.Models.dll
+C:\Users\UjjwalSinghaRoy\source\repos\Honeywell_Backend_Assessment\Assessment.DI\bin\Debug\netcoreapp3.1\Assessment.Repository.dll
+C:\Users\UjjwalSinghaRoy\source\repos\Honeywell_Backend_Assessment\Assessment.DI\bin\Debug\netcoreapp3.1\Assessment.Interfaces.pdb
+C:\Users\UjjwalSinghaRoy\source\repos\Honeywell_Backend_Assessment\Assessment.DI\bin\Debug\netcoreapp3.1\Assessment.Repository.pdb
+C:\Users\UjjwalSinghaRoy\source\repos\Honeywell_Backend_Assessment\Assessment.DI\bin\Debug\netcoreapp3.1\Assessment.DomainModel.pdb
+C:\Users\UjjwalSinghaRoy\source\repos\Honeywell_Backend_Assessment\Assessment.DI\bin\Debug\netcoreapp3.1\Assessment.Models.pdb
+C:\Users\UjjwalSinghaRoy\source\repos\Honeywell_Backend_Assessment\Assessment.DI\obj\Debug\netcoreapp3.1\Assessment.DI.csprojAssemblyReference.cache
+C:\Users\UjjwalSinghaRoy\source\repos\Honeywell_Backend_Assessment\Assessment.DI\obj\Debug\netcoreapp3.1\Assessment.DI.AssemblyInfoInputs.cache
+C:\Users\UjjwalSinghaRoy\source\repos\Honeywell_Backend_Assessment\Assessment.DI\obj\Debug\netcoreapp3.1\Assessment.DI.AssemblyInfo.cs
+C:\Users\UjjwalSinghaRoy\source\repos\Honeywell_Backend_Assessment\Assessment.DI\obj\Debug\netcoreapp3.1\Assessment.DI.csproj.CopyComplete
+C:\Users\UjjwalSinghaRoy\source\repos\Honeywell_Backend_Assessment\Assessment.DI\obj\Debug\netcoreapp3.1\Assessment.DI.dll
+C:\Users\UjjwalSinghaRoy\source\repos\Honeywell_Backend_Assessment\Assessment.DI\obj\Debug\netcoreapp3.1\Assessment.DI.pdb

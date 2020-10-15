@@ -1,0 +1,4 @@
+C:\Users\UjjwalSinghaRoy\source\repos\Honeywell_Backend_Assessment\Assessment.UnitTests\bin\Debug\netcoreapp3.1\Assessment.UnitTests.deps.json
+C:\Users\UjjwalSinghaRoy\source\repos\Honeywell_Backend_Assessment\Assessment.UnitTests\bin\Debug\netcoreapp3.1\Assessment.UnitTests.dll
+C:\Users\UjjwalSinghaRoy\source\repos\Honeywell_Backend_Assessment\Assessment.UnitTests\obj\Debug\netcoreapp3.1\Assessment.UnitTests.AssemblyInfoInputs.cache
+C:\Users\UjjwalSinghaRoy\source\repos\Honeywell_Backend_Assessment\Assessment.UnitTests\obj\Debug\netcoreapp3.1\Assessment.UnitTests.AssemblyInfo.cs

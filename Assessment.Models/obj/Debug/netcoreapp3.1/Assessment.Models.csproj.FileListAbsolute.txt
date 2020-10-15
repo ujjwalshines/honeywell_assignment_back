@@ -1,0 +1,8 @@
+C:\Users\UjjwalSinghaRoy\source\repos\Honeywell_Backend_Assessment\Assessment.Models\bin\Debug\netcoreapp3.1\Assessment.Models.deps.json
+C:\Users\UjjwalSinghaRoy\source\repos\Honeywell_Backend_Assessment\Assessment.Models\bin\Debug\netcoreapp3.1\Assessment.Models.dll
+C:\Users\UjjwalSinghaRoy\source\repos\Honeywell_Backend_Assessment\Assessment.Models\bin\Debug\netcoreapp3.1\Assessment.Models.pdb
+C:\Users\UjjwalSinghaRoy\source\repos\Honeywell_Backend_Assessment\Assessment.Models\obj\Debug\netcoreapp3.1\Assessment.Models.csprojAssemblyReference.cache
+C:\Users\UjjwalSinghaRoy\source\repos\Honeywell_Backend_Assessment\Assessment.Models\obj\Debug\netcoreapp3.1\Assessment.Models.AssemblyInfoInputs.cache
+C:\Users\UjjwalSinghaRoy\source\repos\Honeywell_Backend_Assessment\Assessment.Models\obj\Debug\netcoreapp3.1\Assessment.Models.AssemblyInfo.cs
+C:\Users\UjjwalSinghaRoy\source\repos\Honeywell_Backend_Assessment\Assessment.Models\obj\Debug\netcoreapp3.1\Assessment.Models.dll
+C:\Users\UjjwalSinghaRoy\source\repos\Honeywell_Backend_Assessment\Assessment.Models\obj\Debug\netcoreapp3.1\Assessment.Models.pdb
