@@ -48,7 +48,7 @@ namespace Honeywell_Backend_Assessment.Services
             ApiResponse response = new ApiResponse();
             try
             {
-                response.Response = _generator.Product.GetProductsByName(id);
+                response.Response = _generator.Product.GetProductsById(id);
                 response.Status = "success";
                 response.Message = "Products retrieved successfully";
             }
