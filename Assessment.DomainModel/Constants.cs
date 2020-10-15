@@ -10,8 +10,8 @@ namespace Assessment.DomainModel
         public const string SELECT_PRODUCT_BY_ID = "select * from tblProducts where Id='{0}'";
         public const string LOGIN = "select * from tblLogin where Username='{0}' and Password='{1}'";
         public const string ADD_PRODUCT = "Insert into tblProducts (Id, ProductName ,ProductDescription) Values('{0}', '{1}', '{2}');";
-        public const string DELETE_PRODUCT = "delete from tblProducts  Where Id = {0};";
-        public const string UPDATE_PRODUCT = "Update tblProducts SET  ProductName ='{0}', ProductDescription = {1} Where Id = {2};";
+        public const string DELETE_PRODUCT = "delete from tblProducts  Where Id = '{0}';";
+        public const string UPDATE_PRODUCT = "Update tblProducts SET  ProductName ='{0}', ProductDescription = '{1}' Where Id = '{2}';";
         public const string APP_SETTINGS = "AppSettings";
     }
     public class Routes
